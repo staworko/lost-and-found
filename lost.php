@@ -4,7 +4,7 @@
      <title>T&apos;as perdu quelque chose ?</title>
 </head>
 <body>
-<h1> T&apos;as perdu quelque chose ?</h1>
+<h1> Tu perds quelque chose ?</h1>
 <form method="POST" action="found.php">
 <select name="gare">
 <option value="" selected></option>
